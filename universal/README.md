@@ -1,5 +1,5 @@
 # Universal Lockup wallet
-Universal lockup wallet is contract that can store *locked* and *restricted* coins.
+Universal lockup wallet is contract that can storeand .
 
 This contract has unchangable whitelist which is set on deploy (and uniquely determines address). Also this contract stores pubkey of *lockup-sender*.
 
